@@ -1,0 +1,2 @@
+# gobloom
+bloom filter implementation
